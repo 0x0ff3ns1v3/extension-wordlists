@@ -1,0 +1,6 @@
+.plx
+.pl
+.pm
+.xs
+.t
+.pod
