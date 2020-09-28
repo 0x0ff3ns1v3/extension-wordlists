@@ -1,2 +1,6 @@
 .js
 .mjs
+.java
+.class
+.jar
+.war
